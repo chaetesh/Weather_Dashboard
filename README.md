@@ -11,7 +11,7 @@ A Weather Dashboard application built using React, Material UI, and the OpenWeat
 
 ## Demo
 
-![Weather Dashboard Screenshot](path/to/screenshot.png)
+![Weather Dashboard Screenshot](screenshot.png)
 
 ## Installation
 

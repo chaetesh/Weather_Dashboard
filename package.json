@@ -1,6 +1,4 @@
 {
-  "homepage": "http://michaelhtran120.github.io/MUI-React-Weather-App",
-  "name": "weather-mui",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
