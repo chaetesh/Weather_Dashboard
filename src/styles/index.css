@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Nunito", sans-serif !important;
+}
+
+main {
+  min-height: 100vh;
+}
+
+.app {
+  background-image: url("../assets/warm.jpg");
+  background-size: cover;
+  background-position: bottom;
+  transition: 0.4 ease-out;
+}
+
+.app.cold {
+  background-image: url("../assets/cold.jpg");
+}
+
+main {
+  background-image: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.3),
+    rgba(0, 0, 0, 0.8)
+  );
+}
+
+section {
+  margin-top: 50px;
+}
